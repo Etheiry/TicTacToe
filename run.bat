@@ -1,0 +1,1 @@
+g++ ticTacToe.cpp -o final && final.exe
